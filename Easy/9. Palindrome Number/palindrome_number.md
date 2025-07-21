@@ -52,13 +52,13 @@ To check if an integer is a palindrome:
 ---
 
 ## 🔄 Pseudocode
-
+```python
 Convert integer x to a string strX
 If strX is equal to reversed(strX):
 return True
 Else:
 return False
-
+```
 ---
 
 ## ⏱️ Time & Space Complexity
