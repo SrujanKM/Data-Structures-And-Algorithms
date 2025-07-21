@@ -24,11 +24,10 @@ I'm a hands-on learner who believes in **building real-world, meaningful solutio
 
 This repository is structured by **Difficulty** → **Problem Folder**.
 
-DSA/
-└──DSA in Python
-    ├── EASY/
-    ├── MEDIUM/
-    └── HARD/
+Data-Structures-And-Algorithms/
+├── Easy/
+├── Medium/
+└── Hard/
 
 
 Each **problem folder** contains:
@@ -63,8 +62,8 @@ Each **problem folder** contains:
 
 | Metric             | Status        |
 |--------------------|----------------|
-| 🔢 Problems Solved | `0 / 365`      |
-| 📅 Daily Streak    | `0 Days`       |
+| 🔢 Problems Solved | `4`            |
+| 📅 Daily Streak    | `4 Days`       |
 | 🧠 Difficulty Mix  | Easy, Medium, Hard |
 | 💡 Last Updated    | July 21, 2025  |
 
