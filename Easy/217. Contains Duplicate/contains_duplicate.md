@@ -53,13 +53,13 @@ To determine whether there are duplicates in the list:
 ---
 
 ## 🔄 Pseudocode
-
+``` python
 Convert nums to a set
 If length of set == length of original list:
 return False (no duplicates)
 Else:
 return True (duplicates found)
-
+```
 ---
 
 ## ⏱️ Time & Space Complexity
