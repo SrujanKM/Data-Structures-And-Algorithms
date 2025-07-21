@@ -46,19 +46,16 @@ Output: `5, nums = [0,1,2,3,4,_,_,_,_,_]`
 ---
 
 ## 🔄 Pseudocode
-
+```python
 if nums is empty:
 return 0
-
 initialize j = 1
-
 for i from 1 to len(nums)-1:
 if nums[i] != nums[i-1]:
 nums[j] = nums[i]
 j += 1
-
 return j
-
+```
 ---
 
 ## ⏱️ Time & Space Complexity
