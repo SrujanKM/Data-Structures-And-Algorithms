@@ -1,6 +1,7 @@
 # 217. Contains Duplicate
 
 🔗 [View on LeetCode](https://leetcode.com/problems/contains-duplicate/)
+📄 [Solution File](./contains_duplicate.py)
 
 ## 📝 Problem Statement
 

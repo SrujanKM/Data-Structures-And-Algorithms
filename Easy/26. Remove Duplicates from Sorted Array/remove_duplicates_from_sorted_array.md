@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy  
 🔗 [View on LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
-
+📄 [Solution File](./remove_duplicates_from_sorted_array.py)
 ---
 
 ## 📝 Problem Statement

@@ -1,7 +1,8 @@
 # Leetcode Problem 9: Palindrome Number
 
 **Difficulty:** Easy  
-**Link:** [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+🔗 [View on LeetCode](https://leetcode.com/problems/palindrome-number/)
+📄 [Solution File](./palindrome_number.py)
 
 ---
 

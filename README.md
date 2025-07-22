@@ -62,10 +62,10 @@ Each **problem folder** contains:
 
 | Metric             | Status        |
 |--------------------|----------------|
-| 🔢 Problems Solved | `4`            |
-| 📅 Daily Streak    | `4 Days`       |
+| 🔢 Problems Solved | `5`            |
+| 📅 Daily Streak    | `5 Days`       |
 | 🧠 Difficulty Mix  | Easy, Medium, Hard |
-| 💡 Last Updated    | July 21, 2025  |
+| 💡 Last Updated    | July 22, 2025  |
 
 ---
 
@@ -83,7 +83,7 @@ Each **problem folder** contains:
 - **Language:** Python 3.x
 - **Platform:** LeetCode
 - **Tools:** Git, GitHub, Markdown
-- **IDE:** VS Code / PyCharm
+- **IDE:** VS Code
 
 ---
 

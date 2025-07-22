@@ -2,6 +2,7 @@
 
 **Difficulty**: Medium  
 🔗 [View on LeetCode](https://leetcode.com/problems/reverse-integer/)
+📄 [Solution File](./reverse_integer.py)
 
 ---
 
