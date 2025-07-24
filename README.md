@@ -1,6 +1,6 @@
 # 🧠 Daily LeetCode DSA Practice with Explanations
 
-Welcome to my personal repository where I solve **one LeetCode problem every day** and maintain clean, well-documented solutions.  
+Welcome to my personal repository where I solve **LeetCode problem every day** and maintain clean, well-documented solutions.  
 This is not just a practice routine — it's a commitment to **consistency**, **learning**, and **sharing my growth journey** in Data Structures & Algorithms.
 
 ---
@@ -63,7 +63,7 @@ Each **problem folder** contains:
 | Metric             | Status        |
 |--------------------|----------------|
 | 🔢 Problems Solved | `7`            |
-| 📅 Daily Streak    | `7 Days`       |
+| 📅 Daily Streak    | `6 Days`       |
 | 🧠 Difficulty Mix  | Easy, Medium, Hard |
 | 💡 Last Updated    | July 24, 2025  |
 
