@@ -62,7 +62,6 @@ If nothing returned, show NULL
 ### Example 1:
 **Input:**
 
-```sql
 Employee table:
 |----|--------|
 | id | salary |
