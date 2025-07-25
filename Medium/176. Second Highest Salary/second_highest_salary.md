@@ -63,13 +63,14 @@ If nothing returned, show NULL
 **Input:**
 
 Employee table:
-|----|--------|
+
+
 | id | salary |
 |----|--------|
 | 1  | 100    |
 | 2  | 200    |
 | 3  | 300    |
-|----|--------|
+
 
 Output:
 
@@ -82,11 +83,12 @@ Example 2:
 Input:
 
 Employee table:
-|----|--------|
+
+
 | id | salary |
 |----|--------|
 | 1  | 100    |
-|----|--------|
+
 
 Output:
 
