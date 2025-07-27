@@ -32,11 +32,11 @@ Since the result may be very large, you need to return a **string** instead of a
 
 ### 🔄 Pseudocode
 ```python
-- Convert all numbers to strings.
-- Sort using a custom comparator:
-- Compare combined results: x+y vs y+x
-- Join the sorted array.
-- If the result starts with '0', return '0' (to handle multiple zeros).
+Convert all numbers to strings.
+Sort using a custom comparator:
+Compare combined results: x+y vs y+x
+Join the sorted array.
+If the result starts with '0', return '0' (to handle multiple zeros).
 ```
 
 ---
