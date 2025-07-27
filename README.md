@@ -24,11 +24,7 @@ I'm a hands-on learner who believes in **building real-world, meaningful solutio
 
 This repository is structured by **Difficulty** → **Problem Folder**.
 
-Data-Structures-And-Algorithms/
-├── Easy/
-├── Medium/
-└── Hard/
-
+<pre> ``` Data-Structures-And-Algorithms/ ├── Easy/ ├── Medium/ └── Hard/ ``` </pre>
 
 Each **problem folder** contains:
 - `problem.md` – Problem statement, approach, pseudocode, complexities, and helpful links
