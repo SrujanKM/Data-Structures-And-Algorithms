@@ -31,8 +31,8 @@ Data-Structures-And-Algorithms/
 
 
 Each **problem folder** contains:
-- `problem.py` – Clean, commented Python solution with test cases
 - `problem.md` – Problem statement, approach, pseudocode, complexities, and helpful links
+- `problem.py` – Clean, commented Python solution with test cases
 
 ---
 
@@ -62,10 +62,10 @@ Each **problem folder** contains:
 
 | Metric             | Status        |
 |--------------------|----------------|
-| 🔢 Problems Solved | `10`            |
-| 📅 Daily Streak    | `8 Days`       |
+| 🔢 Problems Solved | `11`            |
+| 📅 Daily Streak    | `9 Days`       |
 | 🧠 Difficulty Mix  | Easy, Medium, Hard |
-| 💡 Last Updated    | July 26, 2025  |
+| 💡 Last Updated    | July 27, 2025  |
 
 ---
 
