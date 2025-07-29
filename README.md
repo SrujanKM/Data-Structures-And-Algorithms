@@ -65,7 +65,7 @@ Each **problem folder** contains:
 | 🔢 Problems Solved | `13`            |
 | 📅 Daily Streak    | `11 Days`       |
 | 🧠 Difficulty Mix  | Easy, Medium, Hard |
-| 💡 Last Updated    | July 28, 2025  |
+| 💡 Last Updated    | July 29, 2025  |
 
 ---
 
