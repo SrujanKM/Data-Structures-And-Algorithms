@@ -1,5 +1,5 @@
-# 4. Median of Two Sorted Arrays
-# https://leetcode.com/problems/median-of-two-sorted-arrays/
+# Leetcode Problem 4: Median of Two Sorted Arrays
+# Link: https://leetcode.com/problems/median-of-two-sorted-arrays/
 
 
 from typing import List

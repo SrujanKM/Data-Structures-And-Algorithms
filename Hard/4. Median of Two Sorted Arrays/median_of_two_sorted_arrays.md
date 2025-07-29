@@ -2,7 +2,7 @@
 
 **Difficulty:** Hard
 🔗 [View on LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays/)
-📄 [Solution File](./median-of-two-sorted-arrays.py)
+📄 [Solution File](./median_of_two_sorted_arrays.py)
 
 ## 📝 Problem Statement
 
