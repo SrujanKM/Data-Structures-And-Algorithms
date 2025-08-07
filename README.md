@@ -62,10 +62,10 @@ Each **problem folder** contains:
 
 | Metric             | Status        |
 |--------------------|----------------|
-| 🔢 Problems Solved | `21`            |
-| 📅 Daily Streak    | `19 Days`       |
+| 🔢 Problems Solved | `22`            |
+| 📅 Daily Streak    | `20 Days`       |
 | 🧠 Difficulty Mix  | Easy, Medium, Hard |
-| 💡 Last Updated    | August 6, 2025  |
+| 💡 Last Updated    | August 7, 2025  |
 
 ---
 
